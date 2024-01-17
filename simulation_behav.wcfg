@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="simulation_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="simulation" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="10289766666fs"></ZoomStartTime>
+      <ZoomEndTime time="10440166667fs"></ZoomEndTime>
+      <Cursor1Time time="10361567000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="164"></NameColumnWidth>
+      <ValueColumnWidth column_width="82"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="39" />
+   <wvobject fp_name="/simulation/IN_PORT" type="array">
+      <obj_property name="ElementShortName">IN_PORT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">IN_PORT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/INT" type="logic">
+      <obj_property name="ElementShortName">INT</obj_property>
+      <obj_property name="ObjectShortName">INT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/OUT_PORT" type="array">
+      <obj_property name="ElementShortName">OUT_PORT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT_PORT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/PORT_ID" type="array">
+      <obj_property name="ElementShortName">PORT_ID[7:0]</obj_property>
+      <obj_property name="ObjectShortName">PORT_ID[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/IO_STRB" type="logic">
+      <obj_property name="ElementShortName">IO_STRB</obj_property>
+      <obj_property name="ObjectShortName">IO_STRB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_PC/PC_COUNT" type="array">
+      <obj_property name="ElementShortName">PC_COUNT[9:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_COUNT[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_cu/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_PC/PC_LD" type="logic">
+      <obj_property name="ElementShortName">PC_LD</obj_property>
+      <obj_property name="ObjectShortName">PC_LD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_alu/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_alu/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_prog_rom/INSTRUCTION" type="array">
+      <obj_property name="ElementShortName">INSTRUCTION[17:0]</obj_property>
+      <obj_property name="ObjectShortName">INSTRUCTION[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_alu/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/CLK_period" type="other">
+      <obj_property name="ElementShortName">CLK_period</obj_property>
+      <obj_property name="ObjectShortName">CLK_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_cu/RF_WR" type="logic">
+      <obj_property name="ElementShortName">RF_WR</obj_property>
+      <obj_property name="ObjectShortName">RF_WR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_cu/RF_WR_SEL" type="array">
+      <obj_property name="ElementShortName">RF_WR_SEL[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_WR_SEL[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_alu/RESULT" type="array">
+      <obj_property name="ElementShortName">RESULT[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RESULT[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_cu/PS" type="other">
+      <obj_property name="ElementShortName">PS</obj_property>
+      <obj_property name="ObjectShortName">PS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_regfile/REG" type="array">
+      <obj_property name="ElementShortName">REG[0:31][7:0]</obj_property>
+      <obj_property name="ObjectShortName">REG[0:31][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/SCR/MY_RAM" type="array">
+      <obj_property name="ElementShortName">MY_RAM[0:255][9:0]</obj_property>
+      <obj_property name="ObjectShortName">MY_RAM[0:255][9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/my_cu/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_C_SET" type="logic">
+      <obj_property name="ElementShortName">FLG_C_SET</obj_property>
+      <obj_property name="ObjectShortName">FLG_C_SET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_C_CLR" type="logic">
+      <obj_property name="ElementShortName">FLG_C_CLR</obj_property>
+      <obj_property name="ObjectShortName">FLG_C_CLR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_C_LD" type="logic">
+      <obj_property name="ElementShortName">FLG_C_LD</obj_property>
+      <obj_property name="ObjectShortName">FLG_C_LD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_Z_LD" type="logic">
+      <obj_property name="ElementShortName">FLG_Z_LD</obj_property>
+      <obj_property name="ObjectShortName">FLG_Z_LD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_LD_SEL" type="logic">
+      <obj_property name="ElementShortName">FLG_LD_SEL</obj_property>
+      <obj_property name="ObjectShortName">FLG_LD_SEL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/FLG_SHAD_LD" type="logic">
+      <obj_property name="ElementShortName">FLG_SHAD_LD</obj_property>
+      <obj_property name="ObjectShortName">FLG_SHAD_LD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/C_OUT" type="logic">
+      <obj_property name="ElementShortName">C_OUT</obj_property>
+      <obj_property name="ObjectShortName">C_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/Z_OUT" type="logic">
+      <obj_property name="ElementShortName">Z_OUT</obj_property>
+      <obj_property name="ObjectShortName">Z_OUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/z_output" type="logic">
+      <obj_property name="ElementShortName">z_output</obj_property>
+      <obj_property name="ObjectShortName">z_output</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/c_output" type="logic">
+      <obj_property name="ElementShortName">c_output</obj_property>
+      <obj_property name="ObjectShortName">c_output</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/z_shad" type="logic">
+      <obj_property name="ElementShortName">z_shad</obj_property>
+      <obj_property name="ObjectShortName">z_shad</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/c_shad" type="logic">
+      <obj_property name="ElementShortName">c_shad</obj_property>
+      <obj_property name="ObjectShortName">c_shad</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/z_in" type="logic">
+      <obj_property name="ElementShortName">z_in</obj_property>
+      <obj_property name="ObjectShortName">z_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/simulation/uut/FLAGS/c_in" type="logic">
+      <obj_property name="ElementShortName">c_in</obj_property>
+      <obj_property name="ObjectShortName">c_in</obj_property>
+   </wvobject>
+</wave_config>

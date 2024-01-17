@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Feb 23 14:33:09 2018
+# Process ID: 1204
+# Current directory: C:/Users/User/Desktop/CPE233/RAT_MCU/RAT_MCU.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/User/Desktop/CPE233/RAT_MCU/RAT_MCU.sim/sim_1/behav/xsim/xsim.dir/simulation_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/User/Desktop/CPE233/RAT_MCU/RAT_MCU.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/User/Desktop/CPE233/RAT_MCU/RAT_MCU.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/User/Desktop/CPE233/RAT_MCU/RAT_MCU.sim/sim_1/behav/xsim/xsim.dir/simulation_behav/webtalk/xsim_webtalk.tcl -notrace

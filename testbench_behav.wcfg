@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="205800001fs"></ZoomEndTime>
+      <Cursor1Time time="147200000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="108"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/testbench/s_LEDS" type="array">
+      <obj_property name="ElementShortName">s_LEDS[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_LEDS[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_SWITCHES" type="array">
+      <obj_property name="ElementShortName">s_SWITCHES[7:0]</obj_property>
+      <obj_property name="ObjectShortName">s_SWITCHES[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/s_RESET" type="logic">
+      <obj_property name="ElementShortName">s_RESET</obj_property>
+      <obj_property name="ObjectShortName">s_RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/s_load" type="logic">
+      <obj_property name="ElementShortName">s_load</obj_property>
+      <obj_property name="ObjectShortName">s_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_PC/PC_COUNT" type="array">
+      <obj_property name="ElementShortName">PC_COUNT[9:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_COUNT[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_cu/IO_STRB" type="logic">
+      <obj_property name="ElementShortName">IO_STRB</obj_property>
+      <obj_property name="ObjectShortName">IO_STRB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_prog_rom/INSTRUCTION" type="array">
+      <obj_property name="ElementShortName">INSTRUCTION[17:0]</obj_property>
+      <obj_property name="ObjectShortName">INSTRUCTION[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_cu/PS" type="other">
+      <obj_property name="ElementShortName">PS</obj_property>
+      <obj_property name="ObjectShortName">PS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_cu/NS" type="other">
+      <obj_property name="ElementShortName">NS</obj_property>
+      <obj_property name="ObjectShortName">NS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/testMCU/MCU/my_PC/PC_INC" type="logic">
+      <obj_property name="ElementShortName">PC_INC</obj_property>
+      <obj_property name="ObjectShortName">PC_INC</obj_property>
+   </wvobject>
+</wave_config>
